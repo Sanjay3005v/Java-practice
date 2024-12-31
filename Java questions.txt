@@ -1,0 +1,64 @@
+1. Design a method to find area of triangle, rectangle, circle.
+2. Design a class for a E-commerce website which has following methods, method to add the product, method to  add the product and quantity, method to add the product,   quantity and address of the customer.
+3. write a java program to check if the entered number is divisible by 4 and 8.
+4. write a java program to check if a number ends with 4 by taking user input.
+5. write a java program to check if the given number is divisible by 4 and 400 but not by 100.
+6. write a java program to check the largest of three numbers by taking user input and using conditional operators.
+7. Write a java program to check if the last digit of the number ends with zero.
+8. Design a method to check if the largest of three numbers using simple if.
+9. Write a program to check whether a triangle is valid or not, when the three angles of the triangle are entered through the keyboard. A triangle is valid if the sum of all the three angles is equal to 180 degrees.
+10. Write a java program to check if the given character is a special character or not using if else block.
+11. Write a java program to check if the given year is a leap year or not using if else block.
+12. Write a java program to check if the given character is an uppercase alphabet.
+13. Design a method to take the difference of a number from 30 if the difference is positive return 30,if the difference is negative return thrice the value of given input.
+14. Write a java program to check if the given character is alphabet, digit or special character using else if ladder.
+15. Write a program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+	Percentage >=90%:Grade A
+	Percentage >=80%:Grade B
+	Percentage >=70%:Grade C
+	Percentage >=60%:Grade D
+	Percentage >=40%:Grade E
+	Percentage <40%:Grade F
+16. Given an integer, perform the following conditional actions :
+	If is odd, print Weird
+	If is even and in the inclusive range of 2 to 6, print Not Weird
+	If is even and in the inclusive range of 7 to 20, print Weird
+	If is even and greater than 20, print Not Weird
+17. Write a program to input basic salary of an employee and calculate it's Gross salary according to the following
+	Basic Salary <= 10000 HRA20%,DA=80%
+	Basic Salary <= 20000 HRA25%,DA=90%
+	Basic Salary > 20000 HRA30%,DA=95%
+  The current year and the year in which the employee joined is entered through the keyboard. If the number of years for which the employee has served the organization is greater than three then a bonus of Rs. 2500/- is given to the employee. if the years of service are not greater than 3, then the program should do nothing.	
+18. Write a java program to check if the entered character is vowel or consonant.
+19. Write a java program to check if the given number is even or odd using switch.
+20. A library charges a fine for every book returned late. For first 5 days the fine is 50 paise, for 6-10 days fine is 1 rupee and above 10 days fine is 5 rupees . If you return the book after 30 days your membership will be cancelled. Write  program to accept the number of days the member is late to return the book and display the fine or appropriate message.
+21. Write a program for a simple calculator using
+switch java program.
+22. Write a program to count the total number of notes in given amount.
+23. Write a program to find all roots of a quadratic equation.
+24. Given the length and breadth of a rectangle, write a program to find whether the area of the rectangle is greater than its perimeter or not. For example, the area of the rectangle with length 5 and breadth 4 is greater than its perimeter. 
+25. Write a java program to find the largest of 2 numbers.26.. Write a java program to find the largest of 3 numbers.
+26. Write a java program to check if the given character is a vowel or a consonant.
+27. Write a java program to check if the given number is positive, negative, or zero.
+28. Create a program that prints the corresponding day of the week (eg 1= Sunday, 2=Monday).
+29. Create a program that calculates the final price of an item based on its original price and a discount percentage. The discount percentage varies depending on the original price                      
+ price > 1000 && price < 3000 discount -10%
+ price>=3000 && price<6000 discount -->20% 
+ price>=6000 discount ----> 40 % 
+ price < 1000 no discount
+30. Build a program that determines if a person is eligible for a loan based on their credit score and income.
+  credit score >450 and income 4.0 LPA,
+31. Write a java program to print all the uppercase alphabets.
+32. Write a java program to print all the even numbers in the range of 1 to 10
+33. Write a java program to print a number in reverse order.
+ 
+
+
+
+
+
+
+
+
+
+
